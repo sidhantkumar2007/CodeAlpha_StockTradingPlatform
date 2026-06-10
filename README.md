@@ -1,5 +1,8 @@
 # 📈 Stock Trading Platform
 
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/f456b7a2-eb7c-4dd1-9b73-37836d0c9596" />
+
+
 A Java Swing desktop application simulating a real-time stock trading platform.
 
 ---
