@@ -100,4 +100,7 @@ java StockTradingPlatformGUI
 
 ## Author
 
-Built for the **CodeAlpha Java Programming Internship** — Task 2.
+**Sidhant Kumar**
+🎓 Java Programming Intern @ CodeAlpha
+🐙 GitHub: [sidhantkumar2007](https://github.com/sidhantkumar2007)
+📌 Project: CodeAlpha Internship — Task 2
